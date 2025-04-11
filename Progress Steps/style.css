@@ -42,7 +42,7 @@ body{
     height: 4px;
     width: 0%;
     z-index: -1;
-    transition: 0.4s ease;
+    transition: 0.3s ease;
 }
 
 .progress-container::before{
@@ -67,7 +67,7 @@ body{
     align-items: center;
     justify-content: center;
     border: 3px solid var(--line-border-empty);
-    transition: 0.4s ease;
+    transition: 0.5s ease;
 }
 
 .circle.active{
