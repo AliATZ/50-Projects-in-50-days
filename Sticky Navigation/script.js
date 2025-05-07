@@ -8,4 +8,5 @@ function fixedNav() {
     } else{
         navs.classList.remove('active');
     }
+
 }
